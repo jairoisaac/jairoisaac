@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jairo Millan
 - 👀 I’m interested in a software developer job.
-- I am a passionate software developer
+- Middle developer with .NET Angular and Swift IOS, junior with java, C++.
+- I am a passionate software developer; main projects .NET and swift as private.
 - 📫 Reach me at jairomillan@me.com 
 
 <!---
